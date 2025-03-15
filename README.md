@@ -1,19 +1,19 @@
 # 🌟 Microsoft Development Tools & Frameworks Timeline
 
 ## 📃 Table of Contents
-- [📌 Overview](#overview)
-- [🚀 Timeline of Microsoft Development Technologies](#-timeline-of-microsoft-development-technologies)
-- [🔄 Evolution and Merging of Technologies](#-evolution-and-merging-of-technologies)
-- [🔢 Where We Are Today (March 15, 2025)](#-where-we-are-today-march-15-2025)
+- [ Overview](#overview)
+- [ Timeline of Microsoft Development Technologies](#timeline-of-microsoft-development-technologies)
+- [ Evolution and Merging of Technologies](#evolution-and-merging-of-technologies)
+- [ Where We Are Today (March 15, 2025)](#where-we-are-today-march-15-2025)
 
 ---
 
-## 📌 Overview
+## Overview
 This document provides a comprehensive **timeline** of Microsoft's **development tools and frameworks**, illustrating their **evolution**, **rebranding**, and **merging** into modern solutions. Microsoft has continuously evolved its technology stack, merging legacy frameworks into modern, efficient, and scalable solutions like **.NET 8 and .NET MAUI**.
 
 ---
 
-## 🚀 Timeline of Microsoft Development Technologies
+## Timeline of Microsoft Development Technologies
 
 ### **2000: .NET Framework 1.0 & C# 1.0**
 - First release of **.NET Framework**, introducing **CLR (Common Language Runtime)**.
@@ -91,7 +91,7 @@ This document provides a comprehensive **timeline** of Microsoft's **development
 
 ---
 
-## 🔄 Evolution and Merging of Technologies
+##  Evolution and Merging of Technologies
 | Original Technology | Absorbed or Replaced By |
 |---------------------|-------------------------|
 | **ASP.NET (Classic)** | ASP.NET Core |
@@ -103,7 +103,7 @@ This document provides a comprehensive **timeline** of Microsoft's **development
 
 ---
 
-## 🔢 Where We Are Today (March 15, 2025)
+##  Where We Are Today (March 15, 2025)
 - **.NET 8 & .NET 9 Preview**
 - **C# 12.0**
 - **Blazor Hybrid & WebAssembly**
