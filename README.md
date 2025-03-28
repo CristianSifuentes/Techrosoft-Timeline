@@ -86,8 +86,20 @@ This document provides a comprehensive **timeline** of Microsoft's **development
 - Enhanced AI/ML support in .NET.
 - **C# 12.0** introduced **primary constructors for all types**.
 
-### **2024: .NET 9 Preview**
-- Performance optimizations and energy efficiency improvements.
+### **2024: .NET 9.0 & C# 13.0**
+- **.NET 9.0** officially released with **enhanced performance**, **energy efficiency**, and **AI-native capabilities**.
+- Focus on **cloud optimization**, **container-first approach**, and **Blazor enhancements**.
+- **C# 13.0** introduced:
+  - **Params spans** for more efficient memory usage.
+  - **Lambda improvements**, including natural type inference.
+  - **Inline arrays** for better low-level memory layout.
+
+### **2025: .NET 10.0 Preview & C# 14.0 Preview**
+- **.NET 10.0 Preview** introduces **deeper WebAssembly support**, **next-gen MAUI features**, and **performance profiling enhancements**.
+- **C# 14.0 Preview** includes:
+  - **Metaprogramming primitives** (initial steps toward macros).
+  - **Discriminated unions** (experimental).
+  - Enhanced **pattern matching** and **type-safe reflection** improvements.
 
 ---
 
@@ -103,9 +115,10 @@ This document provides a comprehensive **timeline** of Microsoft's **development
 
 ---
 
-##  Where We Are Today (March 15, 2025)
-- **.NET 8 & .NET 9 Preview**
-- **C# 12.0**
+## Where We Are Today (March 27, 2025)
+- **.NET 8 & .NET 9.0**
+- **.NET 10 Preview**
+- **C# 12.0, C# 13.0 & C# 14.0 (Preview)**
 - **Blazor Hybrid & WebAssembly**
 - **AI Integration with .NET AI SDKs**
 - **.NET MAUI for Cross-Platform Mobile Development**
