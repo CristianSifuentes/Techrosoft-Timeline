@@ -24,10 +24,8 @@
     - [2023: .NET 8.0 & C# 12.0](#2023-net-80--c-120)
     - [2024: .NET 9.0 & C# 13.0](#2024-net-90--c-130)
     - [2025: .NET 10.0 Preview & C# 14.0 Preview](#2025-net-100-preview--c-140-preview)
-
 3. [ Evolution and Merging of Technologies](#evolution-and-merging-of-technologies)
-4. [ Where We Are Today (March 15, 2025)](#where-we-are-today-march-15-2025)
-
+4. [ Where We Are Today (March 27, 2025)](#where-we-are-today-march-27-2025)
 ---
 
 ## Overview
